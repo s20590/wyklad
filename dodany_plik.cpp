@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"White nibber"<<endl;
+    cout<<"White niqqer"<<endl;
 
 }
