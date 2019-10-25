@@ -15,6 +15,7 @@ int main() {
 	//Mnozenie
 	
 	//Dzielenie
+	cout<<"Wynik dzielenia: "<<float(a)/float(b)<<endl;
 	
 	return 0;
 }
