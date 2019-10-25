@@ -11,6 +11,7 @@ int main() {
 	//Dodawanie 
 	
 	//Odejmowanie
+	cout << "Wynik odejmowania: " << a-b << endl;
 	
 	//Mnozenie
 	cout<<"Wynik mnozenia: "<<a*b<<endl;
