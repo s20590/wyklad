@@ -9,6 +9,7 @@ int main() {
 	cin>>a>>b;
 	
 	//Dodawanie 
+	cout<<"Wynik dodawania: "<<a+b<<endl;
 	
 	//Odejmowanie
 	cout << "Wynik odejmowania: " << a-b << endl;
