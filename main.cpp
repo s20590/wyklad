@@ -13,7 +13,7 @@ int main() {
 	//Odejmowanie
 	
 	//Mnozenie
-	
+	cout<<"Wynik mnozenia: "<<a*b<<endl;
 	//Dzielenie
 	
 	return 0;
